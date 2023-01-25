@@ -1,4 +1,8 @@
-<h1 align="left">Allef Decharts</h1>
+<h1 align="left">Sou Allef Decharts</h1>
+
+- 👨🏻‍💻 Desenvolvedor Front-end 
+- 📨 contato@allefdecharts.com.br
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Allef-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Allef-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
