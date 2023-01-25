@@ -1,6 +1,6 @@
 <h1 align="left">Olá, Sou o Allef Decharts</h1>
 
-- 👨🏻‍💻 Desenvolvedor Front-end 
+- 👨🏻‍💻 Desenvolvedor Front-End Sênior
 - 📨 contato@allefdecharts.com.br
 - ☕ Apaixonado por café
 
